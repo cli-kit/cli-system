@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "chai": "^1.9.1",
-    "cli-argparse": "^0.4.2",
+    "cli-argparse": "^0.4.3",
     "cli-conflict": "0.0.2",
     "cli-define": "^0.5.43",
     "cli-env": "^1.0.9",
