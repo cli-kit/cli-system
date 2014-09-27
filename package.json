@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "cli-argparse": "^0.4.3",
+    "cli-compiler": "^0.1.1",
     "cli-define": "^0.5.44",
     "cli-env": "^1.0.9",
     "cli-help": "^0.0.3",
@@ -32,6 +33,7 @@
     "cli-mid-boot": "^1.0.0",
     "cli-mid-color": "^1.0.1",
     "cli-mid-command": "^1.0.0",
+    "cli-mid-compiler": "^1.0.2",
     "cli-mid-convert": "^1.0.0",
     "cli-mid-debug": "^1.0.0",
     "cli-mid-defaults": "^1.0.0",
