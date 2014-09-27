@@ -3,6 +3,7 @@ Table of Contents
 
 * [System Middleware](#system-middleware)
   * [Install](#install)
+  * [Test](#test)
   * [License](#license)
 
 System Middleware
@@ -14,6 +15,12 @@ System middleware for the [command](https://github.com/freeformsystems/cli-comma
 
 ```
 npm i cli-system
+```
+
+## Test
+
+```
+npm test
 ```
 
 ## License
