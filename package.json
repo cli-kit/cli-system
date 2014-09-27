@@ -43,9 +43,7 @@
     "cli-native": "^1.0.0",
     "cli-types": "^0.0.7",
     "cli-util": "^1.1.23",
-    "istanbul": "^0.3.2",
-    "markzero": "^0.1.29",
-    "mocha": "^1.21.4"
+    "markzero": "^0.1.29"
   },
   "devDependencies": {
     "chai": "^1.9.1",
