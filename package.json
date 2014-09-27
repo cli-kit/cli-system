@@ -23,12 +23,8 @@
     "system"
   ],
   "dependencies": {
-    "cli-argparse": "^0.4.3",
     "cli-compiler": "^0.1.1",
-    "cli-define": "^0.5.44",
-    "cli-env": "^1.0.9",
-    "cli-help": "^0.0.3",
-    "cli-logger": "^0.5.30",
+
     "cli-mid-action": "^1.0.1",
     "cli-mid-boot": "^1.0.0",
     "cli-mid-color": "^1.0.1",
@@ -60,11 +56,7 @@
     "cli-mid-unparsed": "^1.0.1",
     "cli-mid-variables": "^1.0.0",
     "cli-mid-verbose": "^1.0.0",
-    "cli-mid-version": "^1.0.0",
-    "cli-native": "^1.0.0",
-    "cli-types": "0.0.7",
-    "cli-util": "^1.1.23",
-    "markzero": "^0.1.29"
+    "cli-mid-version": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^1.9.1",
