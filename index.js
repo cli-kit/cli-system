@@ -1,5 +1,5 @@
 function collect(map) {
-  var k, v, list = [];
+  var k, list = [];
   for(k in map) {
     list.push(map[k]);
   }
