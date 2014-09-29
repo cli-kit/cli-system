@@ -28,7 +28,7 @@
     "cli-mid-boot": "^1.0.0",
     "cli-mid-color": "^1.0.6",
     "cli-mid-command": "^1.0.1",
-    "cli-mid-compiler": "^1.0.4",
+    "cli-mid-compiler": "^1.0.6",
     "cli-mid-convert": "^1.0.0",
     "cli-mid-debug": "^1.0.2",
     "cli-mid-defaults": "^1.0.0",
