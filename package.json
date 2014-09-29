@@ -41,7 +41,7 @@
     "cli-mid-eunknown": "^1.0.0",
     "cli-mid-events": "^1.0.0",
     "cli-mid-exec": "^1.0.1",
-    "cli-mid-help": "^1.0.0",
+    "cli-mid-help": "^1.0.1",
     "cli-mid-logger": "^1.0.0",
     "cli-mid-manual": "^1.0.0",
     "cli-mid-merge": "^1.0.0",
@@ -55,7 +55,7 @@
     "cli-mid-unparsed": "^1.0.1",
     "cli-mid-variables": "^1.0.0",
     "cli-mid-verbose": "^1.0.0",
-    "cli-mid-version": "^1.0.0"
+    "cli-mid-version": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
