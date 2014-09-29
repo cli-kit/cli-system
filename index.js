@@ -6,7 +6,8 @@ function collect(map) {
   return list;
 }
 
-var include = function() {
+var include = function(assign) {
+  var k, v;
   var map = {
     action: require('cli-mid-action'),
     boot: require('cli-mid-boot'),
@@ -42,6 +43,16 @@ var include = function() {
     verbose: require('cli-mid-verbose'),
     version: require('cli-mid-version')
   }
+
+  // legacy mode where middleware was available
+  // via named properties
+  if(assign) {
+    for(k in map) {
+      v = map[k];
+      module.exports[k] = v;
+    }
+  }
+
   return {map: map, list: collect(map), keys: Object.keys(map)}
 }
 
