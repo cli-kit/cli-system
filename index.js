@@ -62,8 +62,6 @@ function standard() {
     require('cli-mid-stdin'),
     require('cli-mid-boot'),
     require('cli-mid-compiler'),
-    //require('cli-mid-compiler').load,
-    //require('cli-mid-compiler').substitute,
     require('cli-mid-parser'),
     require('cli-mid-unparsed'),
     require('cli-mid-defaults'),
