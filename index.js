@@ -97,6 +97,3 @@ providers.help = require('cli-mid-help');
 providers.version = require('cli-mid-version');
 
 module.exports = providers;
-
-// TODO: should not depend upon compiler
-module.exports.ConverterMap = require('cli-compiler').ConverterMap;

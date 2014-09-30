@@ -7,7 +7,6 @@ describe('cli-system:', function() {
     expect(sys.help).to.be.a('function');
     expect(sys.version).to.be.a('function');
     expect(sys.standard).to.be.a('function');
-    expect(sys.ConverterMap).to.be.a('function');
     done();
   });
 
