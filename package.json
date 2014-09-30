@@ -55,7 +55,7 @@
     "cli-mid-unparsed": "^1.0.2",
     "cli-mid-variables": "^1.0.0",
     "cli-mid-verbose": "^1.0.0",
-    "cli-mid-version": "^1.0.1"
+    "cli-mid-version": "^1.0.2"
   },
   "devDependencies": {
     "chai": "^1.9.1",
