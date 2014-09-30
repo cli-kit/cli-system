@@ -47,7 +47,7 @@
     "cli-mid-merge": "^1.0.0",
     "cli-mid-multiple": "^1.0.0",
     "cli-mid-notify": "^1.0.0",
-    "cli-mid-parser": "^1.0.5",
+    "cli-mid-parser": "^1.0.6",
     "cli-mid-rc": "^1.0.0",
     "cli-mid-ready": "^1.0.0",
     "cli-mid-run": "^1.0.0",
