@@ -1,6 +1,6 @@
 {
   "name": "cli-system",
-  "version": "0.1.55",
+  "version": "0.1.56",
   "description": "System middleware for the command module",
   "author": "muji <noop@xpm.io>",
   "repository": {
