@@ -34,7 +34,7 @@
     "cli-mid-ecommand": "~1.0.0",
     "cli-mid-empty": "~1.0.1",
     "cli-mid-emultiple": "~1.0.1",
-    "cli-mid-env": "~1.0.3",
+    "cli-mid-env": "~1.0.4",
     "cli-mid-erequired": "~1.0.0",
     "cli-mid-error": "~1.0.0",
     "cli-mid-eunknown": "~1.0.0",
